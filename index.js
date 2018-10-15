@@ -75,7 +75,7 @@ function checkTie() {
 
 function playTurn(player) {
   console.log(
-    "Let's begin: " +
+    "Let's begin with player: " +
       player +
       "Select a number to place your piece: \n" +
       " 1 | 2 | 3 \n" +
